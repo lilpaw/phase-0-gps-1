@@ -7,3 +7,5 @@ cd
 checkout
 touch
 add commit push
+log
+
